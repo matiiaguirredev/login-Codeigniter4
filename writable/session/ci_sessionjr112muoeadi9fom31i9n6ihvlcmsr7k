@@ -1,0 +1,11 @@
+__ci_last_regenerate|i:1731571195;_ci_previous_url|s:39:"http://project.local/index.php/register";_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:6:{s:14:"csrf_test_name";s:32:"1a104fb0fead0c314a33d2cbf72fddf4";s:4:"name";s:65:"fdsffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff";s:5:"email";s:22:"matiasagui93@gmail.com";s:4:"user";s:48:"dsasdddddddddddddddddddddddddddddddddddddddddddd";s:8:"password";s:3:"dd1";s:10:"repassword";s:8:"d32d32d2";}}__ci_vars|a:3:{s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";s:6:"errors";s:3:"old";}_ci_validation_errors|a:3:{s:4:"user";s:53:"The user field cannot exceed 30 characters in length.";s:8:"password";s:59:"The password field must be at least 5 characters in length.";s:10:"repassword";s:55:"The repassword field does not match the password field.";}errors|s:406:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>The user field cannot exceed 30 characters in length.</li>
+					<li>The password field must be at least 5 characters in length.</li>
+					<li>The repassword field does not match the password field.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";
