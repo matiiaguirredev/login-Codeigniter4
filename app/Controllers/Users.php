@@ -83,8 +83,6 @@ class Users extends BaseController {
     }
 
     public function linkREquestForm() {
-
-
         return view('link_request');
     }
 
